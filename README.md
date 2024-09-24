@@ -4,7 +4,7 @@ Overview
 
 The Delhi Metro Route and Fare Calculator is a Java-based application designed to help commuters navigate the Delhi Metro system efficiently. The program allows users to input the names of the source and destination metro stations, and it calculates the shortest route along with the fare based on the distance between the two stations.
 
-This application utilizes graph theory and heap data structures to compute the shortest path between stations. The metro network is represented as a graph where nodes represent metro stations, and edges represent the connections between them, with weights corresponding to the distance.
+This application utilizes graph theory and heap data structures to compute the shortest path between stations. The metro network is represented as a graph where nodes represent metro stations, and edges represent the connections between them, with weights corresponding to the distance. Metro Map: Provides a visualization of the metro network to aid in route navigation.
 
 Features
 
